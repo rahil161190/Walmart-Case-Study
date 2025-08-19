@@ -28,4 +28,3 @@ Product Preferences
 - Products priced between $15,000-$20,000 are the most frequently purchased.  
 - Categories 5, 1, and 8 are the best-sellers, particularly among the 26-35 age group.  
 
-Have insights or suggestions? Open a pull request and contribute! 🛒  
